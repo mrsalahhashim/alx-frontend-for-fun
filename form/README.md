@@ -54,8 +54,3 @@ Read or watch:
 ### [5. add pure HTML / CSS error handling](./06-styles.css)
 
 ### [6. add the search form](./07-article.html)
-
----
-
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
